@@ -1,0 +1,14 @@
+C:\ASPNETApplications\DapperORM\DapperORM\bin\Debug\netcoreapp2.2\DapperORM.deps.json
+C:\ASPNETApplications\DapperORM\DapperORM\bin\Debug\netcoreapp2.2\DapperORM.runtimeconfig.json
+C:\ASPNETApplications\DapperORM\DapperORM\bin\Debug\netcoreapp2.2\DapperORM.runtimeconfig.dev.json
+C:\ASPNETApplications\DapperORM\DapperORM\bin\Debug\netcoreapp2.2\DapperORM.dll
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.csproj.CoreCompileInputs.cache
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.RazorAssemblyInfo.cache
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.RazorAssemblyInfo.cs
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.AssemblyInfoInputs.cache
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.AssemblyInfo.cs
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.RazorTargetAssemblyInfo.cache
+C:\ASPNETApplications\DapperORM\DapperORM\bin\Debug\netcoreapp2.2\DapperORM.pdb
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.dll
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.pdb
+C:\ASPNETApplications\DapperORM\DapperORM\obj\Debug\netcoreapp2.2\DapperORM.csprojAssemblyReference.cache
